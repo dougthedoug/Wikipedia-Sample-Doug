@@ -1,4 +1,12 @@
-/* Stylesheet */
+/* Colors
+#9CC4E4-sky blue
+#F26C4F-red orange
+#E9F2F9-light blue
+ */
+ 
+ body{
+	 Background: url("../img/arches.png");
+ }
 header {
 	
 }
