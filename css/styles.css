@@ -9,8 +9,23 @@
 	 font-family: 'Bubbler One', sans-serif;
  }
 header {
-	
+  text-shadow: 1px 2px 3px #DDEEFF,
+               0 0 0 black,
+               -1px 1px 0 #DDEEFF,
+               1px 1px 0 white;
+
+  color: #F26C4F;
+  letter-spacing: -5px;
+  font-size: 36px;
+  font-weight: bold; 
 }
+H3 {
+	color: #9CC4E4;
+}
+H1 {
+	color: #F26C4F;
+}
+	
 nav {
 	
 }
